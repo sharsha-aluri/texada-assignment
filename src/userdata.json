@@ -1,0 +1,16 @@
+[
+  {
+    "userid": 1,
+    "username": "admin",
+    "password": "admin",
+    "canRead": 1,
+    "canEdit": 1
+  },
+  {
+    "userid": 2,
+    "username": "user",
+    "password": "user",
+    "canRead": 1,
+    "canEdit": 0
+  }
+]

@@ -1,0 +1,9 @@
+.app-content {
+  margin-top: 60px; 
+  background-color: white;
+}
+
+.test-container {
+  width: 1000px;
+  margin: 0 auto;
+}

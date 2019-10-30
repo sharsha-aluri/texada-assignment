@@ -1,0 +1,21 @@
+  .app-title{
+    float: left;
+    padding-left: 40px;
+    width: auto;
+  }
+
+  .logout-button{
+    float: right;
+    margin-right: 40px;
+    width: auto;
+    margin-top: 20px;
+  }
+  
+  .app-header {
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 2px 8px #f0f1f2;
+    z-index: 10;
+    padding: 0;
+    background-color: #ffffff;
+  }
